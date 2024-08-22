@@ -1,0 +1,7 @@
+{
+  "name": "LP-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
